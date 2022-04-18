@@ -1,0 +1,11 @@
+node_modules/
+server/__pycache__/
+server/accident_pics/
+server/allentest.mp4
+server/cropped.jpg
+server/image.jpg
+server/cfg/yolov3.weights
+.firebase/
+.firebaserc
+dist/
+firebase.json
